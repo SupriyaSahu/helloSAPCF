@@ -6,7 +6,7 @@ sap.ui.define([
 	 */
 	function (Controller) {
 		"use strict";
-        //comment  test
+        //comment  test 
 		return Controller.extend("znorthwind.controller.View1", {
 			onInit: function () {
 this.getView();
